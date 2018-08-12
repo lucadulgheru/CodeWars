@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533940269 source:c:\users\luca\desktop\projects\nextperfectsquare\main.cpp
+	<iostream>
+	<math.h>
+

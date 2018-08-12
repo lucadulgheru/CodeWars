@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533925674 source:c:\users\luca\desktop\codewars\test\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
